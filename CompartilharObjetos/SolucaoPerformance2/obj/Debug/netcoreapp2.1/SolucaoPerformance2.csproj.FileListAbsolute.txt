@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\SolucaoPerformance2.deps.json
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\SolucaoPerformance2.runtimeconfig.json
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\SolucaoPerformance2.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\SolucaoPerformance2.dll
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\SolucaoPerformance2.pdb
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\SolucaoPerformance1.dll
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\bin\Debug\netcoreapp2.1\SolucaoPerformance1.pdb
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\obj\Debug\netcoreapp2.1\SolucaoPerformance2.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\obj\Debug\netcoreapp2.1\SolucaoPerformance2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\obj\Debug\netcoreapp2.1\SolucaoPerformance2.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\obj\Debug\netcoreapp2.1\SolucaoPerformance2.AssemblyInfo.cs
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\obj\Debug\netcoreapp2.1\SolucaoPerformance2.csproj.CopyComplete
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\obj\Debug\netcoreapp2.1\SolucaoPerformance2.dll
+C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance2\obj\Debug\netcoreapp2.1\SolucaoPerformance2.pdb
