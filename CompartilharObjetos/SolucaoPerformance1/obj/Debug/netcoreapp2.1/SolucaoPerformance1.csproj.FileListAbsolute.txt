@@ -12,3 +12,17 @@ C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance1\bin\Debug\ne
 C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance1\bin\Debug\netcoreapp2.1\SolucaoPerformance1.pdb
 C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.dll
 C:\Users\mathe\source\repos\SolucaoPerformance1\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.pdb
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\SolucaoPerformance1.deps.json
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\SolucaoPerformance1.runtimeconfig.json
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\SolucaoPerformance1.runtimeconfig.dev.json
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\SolucaoPerformance1.dll
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\bin\Debug\netcoreapp2.1\SolucaoPerformance1.pdb
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.csprojAssemblyReference.cache
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.csproj.CoreCompileInputs.cache
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.AssemblyInfoInputs.cache
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.AssemblyInfo.cs
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.dll
+C:\ReposGit\xUnit\CompartilharObjetos\SolucaoPerformance1\obj\Debug\netcoreapp2.1\SolucaoPerformance1.pdb

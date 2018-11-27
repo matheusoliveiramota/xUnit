@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoPerformance1", "SolucaoPerformance1\SolucaoPerformance1.csproj", "{3D0EAD95-D99C-4517-B511-27071F13E8CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolucaoPerformance1", "SolucaoPerformance1\SolucaoPerformance1.csproj", "{3D0EAD95-D99C-4517-B511-27071F13E8CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoPerformance2", "SolucaoPerformance2\SolucaoPerformance2.csproj", "{2BFD8C64-56E7-4101-91FC-64D8D4BED366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolucaoPerformance2", "SolucaoPerformance2\SolucaoPerformance2.csproj", "{2BFD8C64-56E7-4101-91FC-64D8D4BED366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestePerformance", "TestePerformance\TestePerformance.csproj", "{2EF5D5DE-B180-4506-84B9-E49E985448AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2BFD8C64-56E7-4101-91FC-64D8D4BED366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BFD8C64-56E7-4101-91FC-64D8D4BED366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BFD8C64-56E7-4101-91FC-64D8D4BED366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF5D5DE-B180-4506-84B9-E49E985448AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF5D5DE-B180-4506-84B9-E49E985448AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF5D5DE-B180-4506-84B9-E49E985448AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF5D5DE-B180-4506-84B9-E49E985448AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

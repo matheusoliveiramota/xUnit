@@ -1,0 +1,17 @@
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\TestePerformance.deps.json
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\TestePerformance.runtimeconfig.json
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\TestePerformance.runtimeconfig.dev.json
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\TestePerformance.dll
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\obj\Debug\netcoreapp2.1\TestePerformance.csprojAssemblyReference.cache
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\obj\Debug\netcoreapp2.1\TestePerformance.csproj.CoreCompileInputs.cache
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\obj\Debug\netcoreapp2.1\TestePerformance.AssemblyInfoInputs.cache
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\obj\Debug\netcoreapp2.1\TestePerformance.AssemblyInfo.cs
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\TestePerformance.pdb
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\SolucaoPerformance1.dll
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\bin\Debug\netcoreapp2.1\SolucaoPerformance1.pdb
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\obj\Debug\netcoreapp2.1\TestePerformance.csproj.CopyComplete
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\obj\Debug\netcoreapp2.1\TestePerformance.dll
+C:\ReposGit\xUnit\CompartilharObjetos\TestePerformance\obj\Debug\netcoreapp2.1\TestePerformance.pdb

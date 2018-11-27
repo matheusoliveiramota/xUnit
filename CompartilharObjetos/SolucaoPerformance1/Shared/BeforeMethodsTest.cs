@@ -12,14 +12,14 @@ namespace SolucaoPerformance1.Shared
 
         public BeforeMethodsTest()
         {
-            File.AppendAllText(@"C:\BeforeTest.txt", "Instanciando Pessoa para nova classe de teste!" + Environment.NewLine);
+            //File.AppendAllText(@"C:\BeforeTest.txt", "Instanciando Pessoa para nova classe de teste!" + Environment.NewLine);
             // Instancia o objeto a ser compartilhado
             Pessoa = GeradorDePessoa.PreencherPropriedadesPessoa();
         }
 
         public void Dispose()
         {
-            File.AppendAllText(@"C:\BeforeTest.txt", "Fim de todos os testes da classe !" + Environment.NewLine);
+            //File.AppendAllText(@"C:\BeforeTest.txt", "Fim de todos os testes da classe !" + Environment.NewLine);
             Pessoa = null;
         }
     }
